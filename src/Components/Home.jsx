@@ -64,7 +64,7 @@ function Home(){
            <h1 className='hedline'>Manage Your task in one page</h1>
             <p className='paragraph'>Lorem ipsum, dolor sit amet consectetur adipisicin Lorem ipsum 
               dolor sit amet consectetur adipisicing elit. Suscipit, nisi 
-              eligendi voluptate ducimus error quas.g elit. Similique maxime quo eos expedita dolorum?</p>
+             </p>
         </div>
           
          
